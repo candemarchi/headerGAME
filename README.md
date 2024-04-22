@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GameOn</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Andika&amp;family=Bangers&amp;family=Chivo+Mono&amp;family=Hanalei+Fill&amp;family=Indie+Flower&amp;family=Lobster&amp;family=Oswald&amp;family=Pathway+Gothic+One&amp;family=Press+Start+2P&amp;family=Prosto+One&amp;family=Share+Tech+Mono&amp;family=Titan+One&amp;family=Work+Sans&amp;family=Archivo+Black&amp;family=Bakbak+One&amp;family=Russo+One&amp;family=Gasoek+One&amp;family=Anek+Gurmukhi&amp;display=swap"
+        rel="stylesheet">
+       <link rel="stylesheet" href="estilos/styles.css">
+    <link rel="shortcut icon" href="./Gameon.png" type="image/x-icon">
+</head>
+
+<body>
+    <header class="header">
+        <nav class="navegacion">
+            
+            <a href="index.html" class="anclaLogo"> 
+                    
+            
+              <img class="logo-game-on" src="./img/logoGameOn.png" alt="Logo GameOn"></img>   
+            </a>   
+            <ul class="ListaNav">
+                <li class="listaItem"><a href="#" class="linkNav">PC</a></li>
+                <li class="listaItem"><a href="#" class="linkNav">PlayStation</a></li>
+                <li class="listaItem"><a href="#" class="linkNav">Nintendo</a></li>
+                <li class="listaItem"><a href="#" class="linkNav ">Registrarse</a></li>
+                <li class="listaItem"><a href="#" class="linkNav login ">Login</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+
+    </main>
+    <footer>
+
+    </footer>
+    <script>
+
+    </script>
+</body>
+
+</html>
