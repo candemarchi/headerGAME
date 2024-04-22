@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #05141B;
+    color: #CCD0CF;
+}
+
+.logo-game-on {
+    width: 15vh;
+}
+
+.header {
+    background-color: #11212D;
+    color: #CCD0CF;
+    height: 15vh;
+}
+
